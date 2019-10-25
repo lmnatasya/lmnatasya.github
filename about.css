@@ -8,6 +8,10 @@
     width: 400px;
 }
 
+*{
+    margin: 0;
+    padding: 0;
+}
     h2{
         float: right;
         color: #4682B4;
