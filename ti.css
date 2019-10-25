@@ -8,6 +8,11 @@
     width: 400px;
 }
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
     p{
         text-align: center;
         color: #4682B4;
